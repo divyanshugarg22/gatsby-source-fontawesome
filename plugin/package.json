@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-source-fontawesome",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Gatsby source plugin to convert font-awesome json data as graphql schema and use for search icons locally.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divyanshugarg22/gatsby-source-fontawesome.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-source",
+    "gatsby-plugin",
+    "fontawesome",
+    "font-awesome"
+  ],
+  "peerDependencies": {
+    "gatsby": "^2.21.35"
+  },
+  "author": "Divyanshu Garg<divyanshu.garg22@gmail.com>"
+}
